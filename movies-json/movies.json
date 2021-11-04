@@ -1,0 +1,41 @@
+[
+    {
+        "title":"Last Samurai",
+        "length":154,
+        "isKidFriendly":false,
+        "protagonist": {
+            "actorName":"Tom Cruise",
+            "characterName":"Nathan Algren"
+        }, 
+        "antagonist": {
+        "actorName":"Tony Goldwyn",
+        "characterName":"Colonel Bagley"
+        }
+    },
+    {
+        "title":"Super Man",
+        "length":143,
+        "isKidFriendly":true,
+        "protagonist": {
+            "actorName":"Cristopher Reeve",
+            "characterName":"Superman"
+        },
+        "antagonist": {
+        "actorName":"valami Goldwyn",
+        "characterName":"valami Bagley"
+        }
+    },
+    {
+        "title":"Last film",
+        "length":154,
+        "isKidFriendly":false,
+        "protagonist": {
+            "actorName":"ASD valami",
+            "characterName":"Nathan valami"
+        }, 
+        "antagonist": {
+        "actorName":"Tony vaélami",
+        "characterName":"valami Bagley"
+        }
+    }
+]
